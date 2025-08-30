@@ -1,0 +1,2 @@
+# random-doki-generator-rust
+
