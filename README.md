@@ -17,3 +17,7 @@ This was one of my first Rust projects, so please go easy on me 😅.
 
 ![Monika](assets/screenshot.png)  
 *Example output showing Yuri being randomly selected by the generator, with colorful terminal text.*
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
