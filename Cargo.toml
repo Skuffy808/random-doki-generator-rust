@@ -1,0 +1,8 @@
+[package]
+name = "random-doki-generator-rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+colored = "2"
+rand = "0.8"
